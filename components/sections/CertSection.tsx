@@ -7,7 +7,7 @@ import { certifications } from '@/lib/data/certifications';
 
 export function CertSection() {
   return (
-    <section className="py-12 md:py-20 border-b border-gray-800">
+    <section className="py-12">
       <Container>
         <SectionTitle title="Useless Papers" />
 

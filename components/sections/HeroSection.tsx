@@ -7,7 +7,7 @@ import Image from "next/image";
 
 export function HeroSection() {
   return (
-    <section className="relative py-12 md:py-20 border-b border-gray-800">
+    <section className="relative py-12 md:py-20">
       <Container>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           {/* Left Content */}

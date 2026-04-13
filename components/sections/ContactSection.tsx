@@ -5,7 +5,7 @@ import { Container } from '../layout/Container';
 
 export function ContactSection() {
   return (
-    <section className="py-16 md:py-24 border-b border-gray-800">
+    <section className="py-16">
       <Container>
         <motion.div
           initial={{ opacity: 0, y: 30 }}

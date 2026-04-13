@@ -7,7 +7,7 @@ import { skills } from '@/lib/data/skills';
 
 export function SkillsSection() {
   return (
-    <section className="py-12 md:py-20 border-b border-gray-800">
+    <section className="py-12">
       <Container>
         <SectionTitle title="Daily Googles" />
 

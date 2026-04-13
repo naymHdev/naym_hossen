@@ -7,7 +7,7 @@ import { workExperience } from '@/lib/data/experience';
 
 export function WorkSection() {
   return (
-    <section className="py-12 md:py-20 border-b border-gray-800">
+    <section className="py-12">
       <Container>
         <SectionTitle title="Hired Anyway" />
 

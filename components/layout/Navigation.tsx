@@ -15,7 +15,7 @@ export function Navigation() {
   ];
 
   return (
-    <footer className="border-t border-gray-800 bg-black py-8">
+    <footer className="py-8">
       <Container>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

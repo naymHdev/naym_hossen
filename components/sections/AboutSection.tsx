@@ -5,7 +5,7 @@ import { SectionTitle } from '../common/SectionTitle';
 
 export function AboutSection() {
   return (
-    <section className="py-12 md:py-20 border-b border-gray-800">
+    <section className="py-12">
       <Container>
         <SectionTitle title="Me, Basically" />
 

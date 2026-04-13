@@ -7,7 +7,7 @@ import { projects } from '@/lib/data/projects';
 
 export function ProjectsSection() {
   return (
-    <section className="py-12 md:py-20 border-b border-gray-800">
+    <section className="py-12">
       <Container>
         <SectionTitle
           title="Stuff I Didn't Ruin"
